@@ -1,0 +1,10 @@
+{
+  "filters": [
+    {
+      "id": "/^gtceu:extractor/extract_(?!.*(poly|rubber|epoxy|kapton)).*_(?!(ingot|dust))[a-z0-9]+$/"
+    },
+    {
+      "id": "/^gtceu:extractor/extract_(.*(poly|rubber|epoxy|kapton)).*_(?!(ingot|dust|plate))[a-z0-9]+$/"
+    }
+  ]
+}
