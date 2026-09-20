@@ -1,0 +1,7 @@
+{
+  "filters": [
+    {
+      "id": "/^gtceu:extruder/extrude_(?!.*poly|rubber|epoxy|kapton).*_(to_plate|to_rod|wire)$/"
+    }
+  ]
+}
