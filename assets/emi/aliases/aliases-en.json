@@ -1,112 +1,116 @@
 {
-    "aliases": [
-        {
-            "stacks": "item:gtceu:electric_blast_furnace",
-            "text": "ebf"
-        },
-        {
-            "stacks": ["item:minecraft:sand", "item:minecraft:red_sand"],
-            "text": ["alias.emi.dust", "alias.emi.grit"]
-        },
-        {
-            "stacks": "item:gtceu:large_chemical_reactor",
-            "text": "lcr"
-        },
-        {
-            "stacks": "item:gtceu:alloy_blast_smelter",
-            "text": "abs"
-        },
-        {
-            "stacks": "item:gtceu:mega_blast_furnace",
-            "text": "rhf"
-        },
-        {
-            "stacks": "item:gtceu:mega_alloy_blast_smelter",
-            "text": "mabs"
-        },
-        {
-            "stacks": "item:monilabs:creative_data_multi",
-            "text": "orb"
-        },
-        {
-            "stacks": "item:monilabs:creative_energy_multi",
-            "text": "tes"
-        },
-        {
-            "stacks": "item:monilabs:prismatic_crucible",
-            "text": "prismac"
-        },
-        {
-            "stacks": "item:gtceu:power_substation",
-            "text": "pss"
-        },
-        {
-            "stacks": "fluid:gtceu:benzene",
-            "text": "bz"
-        },
-        {
-            "stacks": "fluid:gtceu:nitrobenzene",
-            "text": "nbz"
-        },
-        {
-            "stacks": "fluid:gtceu:high_octane_gasoline",
-            "text": "hog"
-        },
-        {
-            "stacks": "fluid:gtceu:polyether_ether_ketone ",
-            "text": "peek"
-        },
-        {
-            "stacks": "item:gtceu:large_combustion_engine",
-            "text": "lce"
-        },
-        {
-            "stacks": "item:gtceu:extreme_combustion_engine",
-            "text": "ece"
-        },
-        {
-            "stacks": "fluid:gtceu:polyethylene",
-            "text": "pet"
-        },
-        {
-            "stacks": "fluid:gtceu:polytetrafluoroethylene",
-            "text": "ptfe"
-        },
-        {
-            "stacks": "fluid:gtceu:polyvinyl_chloride",
-            "text": "pvc"
-        },
-        {
-            "stacks": "fluid:gtceu:polyethyl_cyanoacrylate",
-            "text": "peca"
-        },
-        {
-            "stacks": "fluid:gtceu:polybenzimidazole",
-            "text": ["pbz", "pbi"]
-        },
-        {
-            "stacks": "item:gtceu:mega_vacuum_freezer",
-            "text": "bbc"
-        },
-        {
-            "stacks": "item:gtceu:vacuum_freezer",
-            "text": "vf"
-        },
-        {
-            "stacks": "item:gtceu:ruthenium_trinium_americium_neutronate_ingot",
-            "text": "rtan"
-        },
-        {
-            "stacks": "item:gtceu:samarium_iron_arsenic_oxide_ingot",
-            "text": "siao"
-        },
-        {
-            "stacks": "fluid:gtceu:sodium_potassium",
-            "text": "nak"
-        },
-        {
-            "stacks": "item:gtceu:primitive_blast_furnace",
-            "text": ["pbf", "bbf"]
-        }
-    ]
+  "aliases": [
+    {
+      "stacks": "item:gtceu:electric_blast_furnace",
+      "text": "ebf"
+    },
+    {
+      "stacks": ["item:minecraft:sand", "item:minecraft:red_sand"],
+      "text": ["alias.emi.dust", "alias.emi.grit"]
+    },
+    {
+      "stacks": "item:gtceu:large_chemical_reactor",
+      "text": "lcr"
+    },
+    {
+      "stacks": "item:gtceu:coal_fly_ash_dust",
+      "text": "cfa"
+    },
+    {
+      "stacks": "item:gtceu:alloy_blast_smelter",
+      "text": "abs"
+    },
+    {
+      "stacks": "item:gtceu:mega_blast_furnace",
+      "text": "rhf"
+    },
+    {
+      "stacks": "item:gtceu:mega_alloy_blast_smelter",
+      "text": "mabs"
+    },
+    {
+      "stacks": "item:monilabs:creative_data_multi",
+      "text": "orb"
+    },
+    {
+      "stacks": "item:monilabs:creative_energy_multi",
+      "text": "tes"
+    },
+    {
+      "stacks": "item:monilabs:prismatic_crucible",
+      "text": "prismac"
+    },
+    {
+      "stacks": "item:gtceu:power_substation",
+      "text": "pss"
+    },
+    {
+      "stacks": "fluid:gtceu:benzene",
+      "text": "bz"
+    },
+    {
+      "stacks": "fluid:gtceu:nitrobenzene",
+      "text": "nbz"
+    },
+    {
+      "stacks": "fluid:gtceu:high_octane_gasoline",
+      "text": "hog"
+    },
+    {
+      "stacks": "fluid:gtceu:polyether_ether_ketone ",
+      "text": "peek"
+    },
+    {
+      "stacks": "item:gtceu:large_combustion_engine",
+      "text": "lce"
+    },
+    {
+      "stacks": "item:gtceu:extreme_combustion_engine",
+      "text": "ece"
+    },
+    {
+      "stacks": "fluid:gtceu:polyethylene",
+      "text": "pet"
+    },
+    {
+      "stacks": "fluid:gtceu:polytetrafluoroethylene",
+      "text": "ptfe"
+    },
+    {
+      "stacks": "fluid:gtceu:polyvinyl_chloride",
+      "text": "pvc"
+    },
+    {
+      "stacks": "fluid:gtceu:polyethyl_cyanoacrylate",
+      "text": "peca"
+    },
+    {
+      "stacks": "fluid:gtceu:polybenzimidazole",
+      "text": ["pbz", "pbi"]
+    },
+    {
+      "stacks": "item:gtceu:mega_vacuum_freezer",
+      "text": "bbc"
+    },
+    {
+      "stacks": "item:gtceu:vacuum_freezer",
+      "text": "vf"
+    },
+    {
+      "stacks": "item:gtceu:ruthenium_trinium_americium_neutronate_ingot",
+      "text": "rtan"
+    },
+    {
+      "stacks": "item:gtceu:samarium_iron_arsenic_oxide_ingot",
+      "text": "siao"
+    },
+    {
+      "stacks": "fluid:gtceu:sodium_potassium",
+      "text": "nak"
+    },
+    {
+      "stacks": "item:gtceu:primitive_blast_furnace",
+      "text": ["pbf", "bbf"]
+    }
+  ]
 }
