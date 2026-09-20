@@ -1,0 +1,7 @@
+{
+  "filters": [
+    {
+      "id": "/^gtceu:fluid_solidifier/solidify_(?!.*poly|rubber|epoxy|kapton).*_(to_nugget|to_plate|to_rotor|to_ingot|gear|block|anvil|small_gear)$/"
+    }
+  ]
+}
