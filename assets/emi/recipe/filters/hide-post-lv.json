@@ -23,6 +23,15 @@
     },
     {
       "id": "/^gtceu:shapeless/(crushed|purified|centrifuged)_ore_to_dust_.*$/"
+    },
+    {
+      "id": "/^gtceu:fluid_solidifier/solidify_(?!.*(poly|rubber|epoxy|kapton)).*_(to_nugget|to_plate|to_rotor|to_ingot|gear|block|anvil|small_gear)$/"
+    },
+    {
+      "id": "/^gtceu:shapeless/gem_to_gem_(flawless_gem|gem)_(.*)$/"
+    },
+    {
+      "id": "/^gtceu:macerator/macerate_(flawless|exquisite)_.*_gem$/"
     }
   ]
 }
