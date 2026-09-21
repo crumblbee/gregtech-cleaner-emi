@@ -19,7 +19,7 @@
       "id": "/^gtceu:shapeless/fine_wire_.*$/"
     },
     {
-      "id": "/^gtceu:shaped/(plate|foil|gear|plate_double|screw|ring|small_gear|rotor|bolt_saw|stick)_.*$/"
+      "id": "/^gtceu:shaped/(plate|foil|gear|plate_double|screw|ring|small_gear|rotor|bolt_saw|stick_long)_.*$/"
     },
     {
       "id": "/^gtceu:shapeless/(crushed|purified|centrifuged)_ore_to_dust_.*$/"
