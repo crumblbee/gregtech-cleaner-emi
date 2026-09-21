@@ -1,0 +1,28 @@
+{
+  "filters": [
+    {
+      "id": "/^gtceu:shaped/(tiny|small)_dust_(assembling|disassembling)_.*$/"
+    },
+    {
+      "id": "/^gtceu:packer/(package|unpackage)_.*_(tiny|small)_dust$/"
+    },
+    {
+      "id": "/^gtceu:forge_hammer/hammer_.*_to_plate$/"
+    },
+    {
+      "id": "/^gtceu:shaped/.*_wire_single$/"
+    },
+    {
+      "id": "/^gtceu:alloy_smelter/alloy_smelt_.*_ingot_to_(gear|small_gear)$/"
+    },
+    {
+      "id": "/^gtceu:shapeless/fine_wire_.*$/"
+    },
+    {
+      "id": "/^gtceu:shaped/(plate|foil|gear|plate_double|screw|ring|small_gear|rotor|bolt_saw|stick)_.*$/"
+    },
+    {
+      "id": "/^gtceu:shapeless/(crushed|purified|centrifuged)_ore_to_dust_.*$/"
+    }
+  ]
+}
