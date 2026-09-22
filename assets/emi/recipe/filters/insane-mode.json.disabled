@@ -1,7 +1,0 @@
-{
-  "filters": [
-    {
-      "id": "/^gtceu:lathe/lathe_.*_to_rod$/"
-    }
-  ]
-}
