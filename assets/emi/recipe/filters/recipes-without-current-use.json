@@ -1,61 +1,194 @@
 {
   "filters": [
     {
-      "id": "extendedcrafting:redstone_catalyst"
-    },
-    {
-      "id": "extendedcrafting:the_ultimate_component"
-    },
-    {
       "id": "/^gtceu:(red_garnet|echo_shard|blue_topaz|yellow_garnet|topaz|opal)_plate$/"
     },
     {
       "id": "/^gtceu:(sodalite|amethyst|blue_topaz|echo_shard|emerald|green_sapphire|lapis|lazurite|olivine|opal|red_garnet|ruby|sapphire|topaz|yellow_garnet)_rod$/"
     },
     {
-      "id": "gtceu:activated_netherite_rod"
-    },
-    {
-      "id": "gtceu:stone_rod"
-    },
-    {
-      "id": "gtceu:stone_gear"
+      "id": "/^gtceu:(|small_|tiny_)_magnetic_(iron|neodynium|samarium|steel|terbium)_dust$/"
     },
     {
       "id": "/^gtceu:(|small_|tiny_)cocoa_dust$/"
     },
     {
-      "id": "/^gtceu:(|small_|tiny_)perlite_dust$/"
-    },
-    {
       "id": "/^gtceu:(|small_|tiny_)netherite_dust$/"
     },
     {
-      "id": "/^gtceu:(|small_|tiny_)_magnetic_(iron|neodynium|samarium|steel|terbium)_dust$/"
+      "id": "/^gtceu:(|small_|tiny_)perlite_dust$/"
     },
     {
       "id": "/^gtceu:magnetic_(iron|neodynium|samarium|steel|terbium)_(ingot|nugget)$/"
     },
-    {
-      "id": "gtceu:magnetic_iron_screw"
-    },
-    {
-      "id": "gtceu:magnetic_steel_plate"
-    },
-    {
-      "id": "gtceu:double_magnetic_steel_plate"
-    },
-    {
-      "id": "gtceu:double_graphene_plate"
-    },
-    {
-      "id": "gtceu:netherite_nugget"
-    },
-    {
-      "id": "projectred_core:electrotine_silicon"
-    },
-    {
-      "id": "projectred_core:electrotine_silicon_comp"
-    }
+    { "id": "extendedcrafting:redstone_catalyst" },
+    { "id": "extendedcrafting:the_ultimate_component" },
+    { "id": "gtceu:actinium_spring" },
+    { "id": "gtceu:activated_netherite_rod" },
+    { "id": "gtceu:americium_rod" },
+    { "id": "gtceu:ardite_plate" },
+    { "id": "gtceu:battery_alloy_rod" },
+    { "id": "gtceu:beryllium_oxide_rod" },
+    { "id": "gtceu:black_steel_foil" },
+    { "id": "gtceu:blue_alloy_bolt" },
+    { "id": "gtceu:blue_alloy_rod" },
+    { "id": "gtceu:blue_alloy_screw" },
+    { "id": "gtceu:chromium_ring" },
+    { "id": "gtceu:cobalt_foil" },
+    { "id": "gtceu:cobalt_rod" },
+    { "id": "gtceu:cryococcus_foil" },
+    { "id": "gtceu:cupronickel_foil" },
+    { "id": "gtceu:darmstadtium_ring" },
+    { "id": "gtceu:double_actinium_plate" },
+    { "id": "gtceu:double_ardite_plate" },
+    { "id": "gtceu:double_battery_alloy_plate" },
+    { "id": "gtceu:double_blue_alloy_plate" },
+    { "id": "gtceu:double_blue_steel_plate" },
+    { "id": "gtceu:double_conductive_alloy_plate" },
+    { "id": "gtceu:double_damascus_steel_plate" },
+    { "id": "gtceu:double_darconite_plate" },
+    { "id": "gtceu:double_electrum_flux_plate" },
+    { "id": "gtceu:double_end_steel_plate" },
+    { "id": "gtceu:double_energetic_alloy_plate" },
+    { "id": "gtceu:double_enriched_naquadah_plate" },
+    { "id": "gtceu:double_enriched_naquadah_trinium_europium_duranide_plate" },
+    { "id": "gtceu:double_gallium_arsenide_plate" },
+    { "id": "gtceu:double_gallium_plate" },
+    { "id": "gtceu:double_graphene_plate" },
+    { "id": "gtceu:double_hastelloy_c_276_plate" },
+    { "id": "gtceu:double_hastelloy_x_plate" },
+    { "id": "gtceu:double_incoloy_ma_956_plate" },
+    { "id": "gtceu:double_indium_gallium_phosphide_plate" },
+    { "id": "gtceu:double_indium_tin_barium_titanium_cuprate_plate" },
+    { "id": "gtceu:double_kanthal_plate" },
+    { "id": "gtceu:double_lanthanum_gold_cadmium_curium_sulfate_plate" },
+    { "id": "gtceu:double_magnesium_diboride_plate" },
+    { "id": "gtceu:double_magnetic_steel_plate" },
+    { "id": "gtceu:double_manyullyn_plate" },
+    { "id": "gtceu:double_maraging_steel_300_plate" },
+    { "id": "gtceu:double_mythril_plate" },
+    { "id": "gtceu:double_neptunium_palladium_aluminium_plate" },
+    { "id": "gtceu:double_nichrome_plate" },
+    { "id": "gtceu:double_niobium_nitride_plate" },
+    { "id": "gtceu:double_palladium_plate" },
+    { "id": "gtceu:double_pulsating_alloy_plate" },
+    { "id": "gtceu:double_red_alloy_plate" },
+    { "id": "gtceu:double_red_steel_plate" },
+    { "id": "gtceu:double_rhodium_plate" },
+    { "id": "gtceu:double_ruridit_plate" },
+    { "id": "gtceu:double_ruthenium_plate" },
+    { "id": "gtceu:double_ruthenium_trinium_americium_neutronate_plate" },
+    { "id": "gtceu:double_silicon_plate" },
+    { "id": "gtceu:double_soularium_plate" },
+    { "id": "gtceu:double_stellite_100_plate" },
+    { "id": "gtceu:double_tantalum_plate" },
+    { "id": "gtceu:double_thorium_plate" },
+    { "id": "gtceu:double_trinaquadalloy_plate" },
+    { "id": "gtceu:double_trinium_plate" },
+    { "id": "gtceu:double_uranium_235_plate" },
+    { "id": "gtceu:double_uranium_plate" },
+    { "id": "gtceu:double_uranium_rhodium_dinaquadide_plate" },
+    { "id": "gtceu:double_vanadium_gallium_plate" },
+    { "id": "gtceu:double_vibrant_alloy_plate" },
+    { "id": "gtceu:double_watertight_steel_plate" },
+    { "id": "gtceu:double_yttrium_barium_cuprate_plate" },
+    { "id": "gtceu:double_zeron_100_plate" },
+    { "id": "gtceu:double_zinc_plate" },
+    { "id": "gtceu:duranium_foil" },
+    { "id": "gtceu:electrum_bolt" },
+    { "id": "gtceu:electrum_flux_rod" },
+    { "id": "gtceu:electrum_screw" },
+    { "id": "gtceu:end_steel_plate" },
+    { "id": "gtceu:energetic_alloy_rod" },
+    { "id": "gtceu:enriched_naquadah_rod" },
+    { "id": "gtceu:enriched_naquadah_trinium_europium_duranide_foil" },
+    { "id": "gtceu:enriched_naquadah_trinium_europium_duranide_plate" },
+    { "id": "gtceu:europium_foil" },
+    { "id": "gtceu:fine_iridium_wire" },
+    { "id": "gtceu:fine_lanthanum_gold_cadmium_curium_sulfate_wire" },
+    { "id": "gtceu:fine_naquadria_wire" },
+    { "id": "gtceu:fine_tungsten_steel_wire" },
+    { "id": "gtceu:fine_zinc_wire" },
+    { "id": "gtceu:hssg_foil" },
+    { "id": "gtceu:iridium_foil" },
+    { "id": "gtceu:iron_ii_chloride" },
+    { "id": "gtceu:iron_minecart_wheels" },
+    { "id": "gtceu:iron_round" },
+    { "id": "gtceu:kanthal_plate" },
+    { "id": "gtceu:lanthanum_gold_cadmium_curium_sulfate_foil" },
+    { "id": "gtceu:lanthanum_gold_cadmium_curium_sulfate_plate" },
+    { "id": "gtceu:long_potin_rod" },
+    { "id": "gtceu:long_tin_alloy_rod" },
+    { "id": "gtceu:lumium_rod" },
+    { "id": "gtceu:magnesium_diboride_foil" },
+    { "id": "gtceu:magnesium_diboride_plate" },
+    { "id": "gtceu:magnetic_iron_screw" },
+    { "id": "gtceu:magnetic_steel_plate" },
+    { "id": "gtceu:meta_null_ring" },
+    { "id": "gtceu:molybdenum_foil" },
+    { "id": "gtceu:mythril_rod" },
+    { "id": "gtceu:naquadah_alloy_ring" },
+    { "id": "gtceu:naquadah_foil" },
+    { "id": "gtceu:naquadria_gear" },
+    { "id": "gtceu:neptunium_palladium_aluminium_foil" },
+    { "id": "gtceu:neptunium_palladium_aluminium_plate" },
+    { "id": "gtceu:netherite_nugget" },
+    { "id": "gtceu:neutronium_ring" },
+    { "id": "gtceu:nichrome_plate" },
+    { "id": "gtceu:nickel_zinc_ferrite_rod" },
+    { "id": "gtceu:niobium_nitride_foil" },
+    { "id": "gtceu:niobium_nitride_plate" },
+    { "id": "gtceu:niobium_nitride_rod" },
+    { "id": "gtceu:omnium_foil" },
+    { "id": "gtceu:palladium_rod" },
+    { "id": "gtceu:plutonium_241_rod" },
+    { "id": "gtceu:polyphenylene_sulfide_rod" },
+    { "id": "gtceu:polytetrafluoroethylene_foil" },
+    { "id": "gtceu:polyvinyl_chloride_rod" },
+    { "id": "gtceu:potin_bolt" },
+    { "id": "gtceu:potin_rod" },
+    { "id": "gtceu:potin_screw" },
+    { "id": "gtceu:pulsating_alloy_double_wire" },
+    { "id": "gtceu:pulsating_alloy_hex_wire" },
+    { "id": "gtceu:pulsating_alloy_octal_wire" },
+    { "id": "gtceu:pulsating_alloy_quadruple_wire" },
+    { "id": "gtceu:pulsating_alloy_single_wire" },
+    { "id": "gtceu:rhodium_bolt" },
+    { "id": "gtceu:rhodium_gear" },
+    { "id": "gtceu:rhodium_screw" },
+    { "id": "gtceu:rubber_foil" },
+    { "id": "gtceu:rubber_rod" },
+    { "id": "gtceu:ruridit_foil" },
+    { "id": "gtceu:ruthenium_trinium_americium_neutronate_foil" },
+    { "id": "gtceu:ruthenium_trinium_americium_neutronate_plate" },
+    { "id": "gtceu:silicon_foil" },
+    { "id": "gtceu:silicone_rubber_gear" },
+    { "id": "gtceu:silicone_rubber_rod" },
+    { "id": "gtceu:small_europium_spring" },
+    { "id": "gtceu:small_hssg_gear" },
+    { "id": "gtceu:small_lead_spring" },
+    { "id": "gtceu:small_tungsten_spring" },
+    { "id": "gtceu:stone_gear" },
+    { "id": "gtceu:stone_rod" },
+    { "id": "gtceu:styrene_butadiene_rubber_rod" },
+    { "id": "gtceu:thorium_plate" },
+    { "id": "gtceu:thorium_rod" },
+    { "id": "gtceu:tin_alloy_bolt" },
+    { "id": "gtceu:tin_alloy_rod" },
+    { "id": "gtceu:tin_alloy_screw" },
+    { "id": "gtceu:titanium_ring" },
+    { "id": "gtceu:tungsten_foil" },
+    { "id": "gtceu:tungsten_steel_foil" },
+    { "id": "gtceu:tungsten_steel_ring" },
+    { "id": "gtceu:tungsten_steel_spring" },
+    { "id": "gtceu:uranium_235_plate" },
+    { "id": "gtceu:uranium_235_rod" },
+    { "id": "gtceu:uranium_rhodium_dinaquadide_foil" },
+    { "id": "gtceu:uranium_rhodium_dinaquadide_plate" },
+    { "id": "gtceu:uranium_rod" },
+    { "id": "gtceu:wrought_iron_foil" },
+    { "id": "gtceu:yttrium_barium_cuprate_foil" },
+    { "id": "projectred_core:electrotine_silicon" },
+    { "id": "projectred_core:electrotine_silicon_comp" }
   ]
 }
