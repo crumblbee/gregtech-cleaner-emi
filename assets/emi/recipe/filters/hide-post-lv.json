@@ -32,6 +32,15 @@
     },
     {
       "id": "/^gtceu:macerator/macerate_(flawless|exquisite)_.*_gem$/"
-    }
+    },
+    { "id": "gtceu:lead_foil" },
+    { "id": "gtceu:lead_bolt" },
+    { "id": "gtceu:lead_ring" },
+    { "id": "gtceu:lead_screw" },
+    { "id": "gtceu:nickel_rod" },
+    { "id": "gtceu:red_alloy_foil" },
+    { "id": "gtceu:tin_foil" },
+    { "id": "gtceu:tin_ring" },
+    { "id": "gtceu:zinc_rod" }
   ]
 }
