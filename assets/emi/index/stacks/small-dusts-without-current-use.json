@@ -1,0 +1,6 @@
+{
+  "disabled": false,
+  "filters": [
+    "/^[^:]+:small_(?!(?:amethyst|cobalt|deepslate|endstone|flint|gallium_arsenide|glowstone|indium_phosphide|netherrack|phosphorus|plutonium_241|plutonium|redstone|silicon_dioxide|silicon_germanium|thorium|tricalcium_phosphate|uranium_235|uranium)_dust$).*_dust$/"
+  ]
+}

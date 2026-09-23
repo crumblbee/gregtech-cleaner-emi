@@ -1,0 +1,6 @@
+{
+  "disabled": false,
+  "filters": [
+    "/^[^:]+:(?!(?:actinium|aluminium|bronze|copper|electrum|enderium|hsss|invar|lead|lumium|monium|mythril|nickel|omnium|osmiridium|signalum|silver|soularium|stainless_steel|steel|tin|tritanium|tungsten_steel|gold|iron|sculk_bioalloy)_nugget$).*_nugget$/"
+  ]
+}

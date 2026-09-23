@@ -1,0 +1,6 @@
+{
+  "disabled": false,
+  "filters": [
+    "/^[^:]+:tiny_(?!(?:copper|flint|naquadria|potassium_dichromate|potassium|quicklime|silicon_germanium|soda_ash|sodium_hydroxide|uranium_235|eltz)_dust$).*_dust$/"
+  ]
+}
