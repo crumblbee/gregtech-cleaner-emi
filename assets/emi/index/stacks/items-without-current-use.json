@@ -20,19 +20,16 @@
 
     "/^gtceu:(black_steel|cobalt|cryococcus|cupronickel|duranium|enriched_naquadah_trinium_europium_duranide|europium|hssg|iridium|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|molybdenum|naquadah|neptunium_palladium_aluminium|niobium_nitride|omnium|polytetrafluoroethylene|rubber|ruridit|ruthenium_trinium_americium_neutronate|silicon|tungsten|tungsten_steel|uranium_rhodium_dinaquadide|wrought_iron|yttrium_barium_cuprate)_foil$/",
 
-    "/^gtceu:small_(blue_alloy|electrum|potin|rhodium|tin_alloy)_bolt$/",
+    "/^gtceu:(blue_alloy|electrum|potin|rhodium|tin_alloy)_bolt$/",
 
-    "/^gtceu:small_(blue_alloy|electrum|magnetic_iron|potin|rhodium|tin_alloy)_screw$/",
+    "/^gtceu:(blue_alloy|electrum|magnetic_iron|potin|rhodium|tin_alloy)_screw$/",
 
-    "/^gtceu:small_(chromium|darmstadtium|meta_null|naquadah_alloy|neutronium|titanium|tungsten_steel)_ring$/",
+    "/^gtceu:(chromium|darmstadtium|meta_null|naquadah_alloy|neutronium|titanium|tungsten_steel)_ring$/",
+
+    "/^gtceu:fine_(iridium|lanthanum_gold_cadmium_curium_sulfate|naquadria|tungsten_steel|zinc)_wire$/",
 
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
-    "gtceu:fine_iridium_wire",
-    "gtceu:fine_lanthanum_gold_cadmium_curium_sulfate_wire",
-    "gtceu:fine_naquadria_wire",
-    "gtceu:fine_tungsten_steel_wire",
-    "gtceu:fine_zinc_wire",
     "gtceu:iron_ii_chloride",
     "gtceu:iron_minecart_wheels",
     "gtceu:iron_round",
