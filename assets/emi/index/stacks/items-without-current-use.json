@@ -30,17 +30,14 @@
 
     "/^gtceu:(naquadria|rhodium|silicone_rubber|small_hssg|stone)_gear$/",
 
+    "/^gtceu:pulsating_alloy_(double|hex|octal|quadruple|single)_wire$/",
+
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
     "gtceu:iron_ii_chloride",
     "gtceu:iron_minecart_wheels",
     "gtceu:iron_round",
     "gtceu:netherite_nugget",
-    "gtceu:pulsating_alloy_double_wire",
-    "gtceu:pulsating_alloy_hex_wire",
-    "gtceu:pulsating_alloy_octal_wire",
-    "gtceu:pulsating_alloy_quadruple_wire",
-    "gtceu:pulsating_alloy_single_wire",
     "projectred_core:electrotine_silicon",
     "projectred_core:electrotine_silicon_comp"
   ]
