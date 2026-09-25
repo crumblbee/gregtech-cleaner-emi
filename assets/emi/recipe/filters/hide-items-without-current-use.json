@@ -1,11 +1,11 @@
 {
   "filters": [
-    { "id": "/^gtceu:forge_hammer/hammer_(potin|tin_alloy)_rod_to_long_rod$" },
+    { "id": "/^gtceu:forge_hammer/hammer_(potin|tin_alloy)_rod_to_long_rod$/" },
     {
       "id": "/^gtceu:(lathe/lathe|extruder/extrude)_(activated_netherite|americium|battery_alloy|beryllium_oxide|blue_alloy|cobalt|electrum_flux|energetic_alloy|enriched_naquadah|lumium|mythril|nickel_zinc_ferrite|niobium_nitride|palladium|plutonium_241|polyphenylene_sulfide|polyvinyl_chloride|potin|rubber|silicone_rubber|stone|styrene_butadiene_rubber|thorium|tin_alloy|uranium_235|uranium)_to_rod$/"
     },
     {
-      "id": "/^gtceu:lathe/lathe_(sodalite|amethyst|blue_topaz|echo_shard|emerald|green_sapphire|lapis|lazurite|olivine|opal|red_garnet|ruby|sapphire|topaz|yellow_garnet)_rod$/"
+      "id": "/^gtceu:lathe/lathe_(sodalite|amethyst|blue_topaz|echo_shard|emerald|green_sapphire|lapis|lazurite|olivine|opal|red_garnet|ruby|sapphire|topaz|yellow_garnet)_to_rod$/"
     },
     {
       "id": "/^gtceu:bender/bend_(actinium|ardite|battery_alloy|blue_alloy|blue_steel|conductive_alloy|damascus_steel|darconite|electrum_flux|end_steel|energetic_alloy|enriched_naquadah|enriched_naquadah_trinium_europium_duranide|gallium_arsenide|gallium|graphene|hastelloy_c_276|hastelloy_x|incoloy_ma_956|indium_gallium_phosphide|indium_tin_barium_titanium_cuprate|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|manyullyn|maraging_steel_300|mythril|neptunium_palladium_aluminium|nichrome|niobium_nitride|palladium|pulsating_alloy|red_alloy|red_steel|rhodium|ruridit|ruthenium|ruthenium_trinium_americium_neutronate|silicon|soularium|stellite_100|tantalum|thorium|trinaquadalloy|trinium|uranium_235|uranium|uranium_rhodium_dinaquadide|vanadium_gallium|vibrant_alloy|watertight_steel|yttrium_barium_cuprate|zeron_100|zinc)_(plate|ingot)_to_double_plate$/"
@@ -52,8 +52,8 @@
       "id": "/^gtceu:extrude_(naquadria|rhodium|silicone_rubber|stone)ingot_to_gear$/"
     },
     {
-      "id":"/^gtceu:extruder/extrude_(hssg)_ingot_to_small_gear$/"
-    }
+      "id": "/^gtceu:extruder/extrude_(hssg)_ingot_to_small_gear$/"
+    },
 
     {
       "id": "/^gtceu:wiremill/mill_pulsating_alloy_wire(|_\\d+)$/"
@@ -67,6 +67,6 @@
     { "id": "gtceu:shaped/round_from_ingot_iron" },
     { "id": "gtceu:lathe/lathe_iron_nugget_to_round" },
     { "id": "minecraft:kjs/projectred_core_electrotine_silicon_comp" },
-    { "id": "gtceu:alloy_smelter/electrotine_silicon" },
+    { "id": "gtceu:alloy_smelter/electrotine_silicon" }
   ]
 }
