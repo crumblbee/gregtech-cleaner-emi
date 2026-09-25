@@ -1,0 +1,7 @@
+{
+  "disabled": true,
+  "filters": [
+    "/^gtceu:(red_garnet|echo_shard|blue_topaz|yellow_garnet|topaz|opal)_plate$/",
+    "/^gtceu:(ardite|end_steel|enriched_naquadah_trinium_europium_duranide|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|neptunium_palladium_aluminium|nichrome|niobium_nitride|ruthenium_trinium_americium_neutronate|thorium|uranium_235|uranium_rhodium_dinaquadide)_plate$/"
+  ]
+}

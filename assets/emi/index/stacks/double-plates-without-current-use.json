@@ -1,0 +1,6 @@
+{
+  "disabled": true,
+  "filters": [
+    "/^gtceu:double_(actinium|ardite|battery_alloy|blue_alloy|blue_steel|conductive_alloy|damascus_steel|darconite|electrum_flux|end_steel|energetic_alloy|enriched_naquadah|enriched_naquadah_trinium_europium_duranide|gallium_arsenide|gallium|graphene|hastelloy_c_276|hastelloy_x|incoloy_ma_956|indium_gallium_phosphide|indium_tin_barium_titanium_cuprate|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|manyullyn|maraging_steel_300|mythril|neptunium_palladium_aluminium|nichrome|niobium_nitride|palladium|pulsating_alloy|red_alloy|red_steel|rhodium|ruridit|ruthenium|ruthenium_trinium_americium_neutronate|silicon|soularium|stellite_100|tantalum|thorium|trinaquadalloy|trinium|uranium_235|uranium|uranium_rhodium_dinaquadide|vanadium_gallium|vibrant_alloy|watertight_steel|yttrium_barium_cuprate|zeron_100|zinc)_plate$/"
+  ]
+}
