@@ -24,10 +24,10 @@
 
     "/^gtceu:small_(blue_alloy|electrum|magnetic_iron|potin|rhodium|tin_alloy)_screw$/",
 
+    "/^gtceu:small_(chromium|darmstadtium|meta_null|naquadah_alloy|neutronium|titanium|tungsten_steel)_ring$/",
+
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
-    "gtceu:chromium_ring",
-    "gtceu:darmstadtium_ring",
     "gtceu:fine_iridium_wire",
     "gtceu:fine_lanthanum_gold_cadmium_curium_sulfate_wire",
     "gtceu:fine_naquadria_wire",
@@ -36,11 +36,8 @@
     "gtceu:iron_ii_chloride",
     "gtceu:iron_minecart_wheels",
     "gtceu:iron_round",
-    "gtceu:meta_null_ring",
-    "gtceu:naquadah_alloy_ring",
     "gtceu:naquadria_gear",
     "gtceu:netherite_nugget",
-    "gtceu:neutronium_ring",
     "gtceu:pulsating_alloy_double_wire",
     "gtceu:pulsating_alloy_hex_wire",
     "gtceu:pulsating_alloy_octal_wire",
@@ -50,8 +47,6 @@
     "gtceu:silicone_rubber_gear",
     "gtceu:small_hssg_gear",
     "gtceu:stone_gear",
-    "gtceu:titanium_ring",
-    "gtceu:tungsten_steel_ring",
     "projectred_core:electrotine_silicon",
     "projectred_core:electrotine_silicon_comp"
   ]
