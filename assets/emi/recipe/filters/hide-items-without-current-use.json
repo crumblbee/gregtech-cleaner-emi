@@ -1,0 +1,72 @@
+{
+  "filters": [
+    { "id": "/^gtceu:forge_hammer/hammer_(potin|tin_alloy)_rod_to_long_rod$" },
+    {
+      "id": "/^gtceu:(lathe/lathe|extruder/extrude)_(activated_netherite|americium|battery_alloy|beryllium_oxide|blue_alloy|cobalt|electrum_flux|energetic_alloy|enriched_naquadah|lumium|mythril|nickel_zinc_ferrite|niobium_nitride|palladium|plutonium_241|polyphenylene_sulfide|polyvinyl_chloride|potin|rubber|silicone_rubber|stone|styrene_butadiene_rubber|thorium|tin_alloy|uranium_235|uranium)_to_rod$/"
+    },
+    {
+      "id": "/^gtceu:lathe/lathe_(sodalite|amethyst|blue_topaz|echo_shard|emerald|green_sapphire|lapis|lazurite|olivine|opal|red_garnet|ruby|sapphire|topaz|yellow_garnet)_rod$/"
+    },
+    {
+      "id": "/^gtceu:bender/bend_(actinium|ardite|battery_alloy|blue_alloy|blue_steel|conductive_alloy|damascus_steel|darconite|electrum_flux|end_steel|energetic_alloy|enriched_naquadah|enriched_naquadah_trinium_europium_duranide|gallium_arsenide|gallium|graphene|hastelloy_c_276|hastelloy_x|incoloy_ma_956|indium_gallium_phosphide|indium_tin_barium_titanium_cuprate|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|manyullyn|maraging_steel_300|mythril|neptunium_palladium_aluminium|nichrome|niobium_nitride|palladium|pulsating_alloy|red_alloy|red_steel|rhodium|ruridit|ruthenium|ruthenium_trinium_americium_neutronate|silicon|soularium|stellite_100|tantalum|thorium|trinaquadalloy|trinium|uranium_235|uranium|uranium_rhodium_dinaquadide|vanadium_gallium|vibrant_alloy|watertight_steel|yttrium_barium_cuprate|zeron_100|zinc)_(plate|ingot)_to_double_plate$/"
+    },
+    {
+      "id": "/^gtceu:cutter/cut_(red_garnet|echo_shard|blue_topaz|yellow_garnet|topaz|opal)_block_to_plate(|_distilled_water|_water)$/"
+    },
+    {
+      "id": "/^gtceu:(bender/bend|cutter/cut)_(ardite|end_steel|enriched_naquadah_trinium_europium_duranide|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|neptunium_palladium_aluminium|nichrome|niobium_nitride|ruthenium_trinium_americium_neutronate|thorium|uranium_235|uranium_rhodium_dinaquadide)_(to_plate|block_to_plate(|_water|_distilled_water))$/"
+    },
+
+    {
+      "id": "/^gtceu:alloy_smelter/alloy_smelt_(?!(?:actinium|aluminium|bronze|copper|electrum|enderium|hsss|invar|lead|lumium|monium|mythril|nickel|omnium|osmiridium|signalum|silver|soularium|stainless_steel|steel|tin|tritanium|tungsten_steel|gold|iron|sculk_bioalloy)_to_nugget$).*_to_nugget$/"
+    },
+
+    { "id": "/^gtceu:shaped/spring_(actinium|tungsten)$/" },
+    { "id": "/^gtceu:bender/bend_(actinium|tungsten)_long_rod_to_spring$/" },
+    { "id": "/^gtceu:shaped/spring_small_(europium|lead|tungsten)$/" },
+    {
+      "id": "/^gtceu:bender/bend_(europium|lead|tungsten)_rod_to_small_spring$/"
+    },
+
+    {
+      "id": "/^gtceu:bender/bend_(black_steel|cobalt|cryococcus|cupronickel|duranium|enriched_naquadah_trinium_europium_duranide|europium|hssg|iridium|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|molybdenum|naquadah|neptunium_palladium_aluminium|niobium_nitride|omnium|polytetrafluoroethylene|rubber|ruridit|ruthenium_trinium_americium_neutronate|silicon|tungsten|tungsten_steel|uranium_rhodium_dinaquadide|wrought_iron|yttrium_barium_cuprate)_(ingot|plate)_to_foil$/"
+    },
+
+    {
+      "id": "/^gtceu:extruder/extrude_(blue_alloy|electrum|potin|rhodium|tin_alloy)_ingot_to_bolt$/"
+    },
+
+    {
+      "id": "/^gtceu:lathe/lathe_(blue_alloy|electrum|magnetic_iron|potin|rhodium|tin_alloy)_bolt_to_screw$/"
+    },
+
+    {
+      "id": "/^gtceu:extruder/extrude_(chromium|darmstadtium|meta_null|naquadah_alloy|neutronium|titanium|tungsten_steel)_ingot_to_ring$/"
+    },
+
+    {
+      "id": "/^gtceu:wiremill/mill_fine_(iridium|lanthanum_gold_cadmium_curium_sulfate|naquadria|tungsten_steel|zinc)_(wire_fine|wire_to_fine_wire)$/"
+    },
+
+    {
+      "id": "/^gtceu:extrude_(naquadria|rhodium|silicone_rubber|stone)ingot_to_gear$/"
+    },
+    {
+      "id":"/^gtceu:extruder/extrude_(hssg)_ingot_to_small_gear$/"
+    }
+
+    {
+      "id": "/^gtceu:wiremill/mill_pulsating_alloy_wire(|_\\d+)$/"
+    },
+    { "id": "extendedcrafting:redstone_catalyst" },
+    { "id": "minecraft:kjs/extendedcrafting_the_ultimate_component" },
+    { "id": "gtceu:iron_ii_chloride" },
+    { "id": "gtceu:shaped/minecart_wheels_steel" },
+    { "id": "gtceu:assembler/steel_minecart_wheels" },
+    { "id": "gtceu:shaped/round_iron" },
+    { "id": "gtceu:shaped/round_from_ingot_iron" },
+    { "id": "gtceu:lathe/lathe_iron_nugget_to_round" },
+    { "id": "minecraft:kjs/projectred_core_electrotine_silicon_comp" },
+    { "id": "gtceu:alloy_smelter/electrotine_silicon" },
+  ]
+}
