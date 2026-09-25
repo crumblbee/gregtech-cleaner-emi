@@ -14,7 +14,7 @@
       "id": "/^gtceu:cutter/cut_(red_garnet|echo_shard|blue_topaz|yellow_garnet|topaz|opal)_block_to_plate(|_distilled_water|_water)$/"
     },
     {
-      "id": "/^gtceu:(bender/bend|cutter/cut)_(ardite|end_steel|enriched_naquadah_trinium_europium_duranide|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|neptunium_palladium_aluminium|nichrome|niobium_nitride|ruthenium_trinium_americium_neutronate|thorium|uranium_235|uranium_rhodium_dinaquadide)_(to_plate|block_to_plate(|_water|_distilled_water))$/"
+      "id": "/^gtceu:(bender/bend|cutter/cut)_(ardite|end_steel|enriched_naquadah_trinium_europium_duranide|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|neptunium_palladium_aluminium|nichrome|niobium_nitride|ruthenium_trinium_americium_neutronate|thorium|uranium_235|uranium_rhodium_dinaquadide|plutonium_241|neodymium|naquadria|molybdenum_disilicide|molybdenum|manganese|bismuth_bronze)_(to_plate|block_to_plate(|_water|_distilled_water))$/"
     },
 
     {
