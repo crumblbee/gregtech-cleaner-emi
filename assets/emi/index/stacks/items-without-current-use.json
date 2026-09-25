@@ -15,9 +15,11 @@
 
     "/^[^:]+:(?!(?:actinium|aluminium|bronze|copper|electrum|enderium|hsss|invar|lead|lumium|monium|mythril|nickel|omnium|osmiridium|signalum|silver|soularium|stainless_steel|steel|tin|tritanium|tungsten_steel|gold|iron|sculk_bioalloy)_nugget$).*_nugget$/",
 
+    "/^gtceu:(actinium|tungsten)_steel_spring$/",
+    "/^gtceu:small_(europium|lead|tungsten)_spring$/",
+
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
-    "gtceu:actinium_spring",
     "gtceu:black_steel_foil",
     "gtceu:blue_alloy_bolt",
     "gtceu:blue_alloy_screw",
@@ -70,10 +72,7 @@
     "gtceu:ruthenium_trinium_americium_neutronate_foil",
     "gtceu:silicon_foil",
     "gtceu:silicone_rubber_gear",
-    "gtceu:small_europium_spring",
     "gtceu:small_hssg_gear",
-    "gtceu:small_lead_spring",
-    "gtceu:small_tungsten_spring",
     "gtceu:stone_gear",
     "gtceu:tin_alloy_bolt",
     "gtceu:tin_alloy_screw",
@@ -81,7 +80,6 @@
     "gtceu:tungsten_foil",
     "gtceu:tungsten_steel_foil",
     "gtceu:tungsten_steel_ring",
-    "gtceu:tungsten_steel_spring",
     "gtceu:uranium_rhodium_dinaquadide_foil",
     "gtceu:wrought_iron_foil",
     "gtceu:yttrium_barium_cuprate_foil",
