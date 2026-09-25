@@ -21,11 +21,13 @@
       "id": "/^gtceu:alloy_smelter/alloy_smelt_(?!(?:actinium|aluminium|bronze|copper|electrum|enderium|hsss|invar|lead|lumium|monium|mythril|nickel|omnium|osmiridium|signalum|silver|soularium|stainless_steel|steel|tin|tritanium|tungsten_steel|gold|iron|sculk_bioalloy)_to_nugget$).*_to_nugget$/"
     },
 
-    { "id": "/^gtceu:shaped/spring_(actinium|tungsten)$/" },
-    { "id": "/^gtceu:bender/bend_(actinium|tungsten)_long_rod_to_spring$/" },
-    { "id": "/^gtceu:shaped/spring_small_(europium|lead|tungsten)$/" },
+    { "id": "/^gtceu:shaped/spring_(actinium|tungsten_steel)$/" },
     {
-      "id": "/^gtceu:bender/bend_(europium|lead|tungsten)_rod_to_small_spring$/"
+      "id": "/^gtceu:bender/bend_(actinium|tungsten_steel)_long_rod_to_spring$/"
+    },
+    { "id": "/^gtceu:shaped/spring_small_(europium|lead)$/" },
+    {
+      "id": "/^gtceu:bender/bend_(europium|lead)_rod_to_small_spring$/"
     },
 
     {
