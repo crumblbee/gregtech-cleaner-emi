@@ -5,6 +5,9 @@
     },
     {
       "id": "/^gtceu:cutter/cut_.*_rod_to_bolt(|_distilled_water|_water)$/"
+    },
+    {
+      "id": "/^gtceu:packer/strip_.*_cable_gt_(single|octal|hex|quadruple|double)$/"
     }
   ]
 }
