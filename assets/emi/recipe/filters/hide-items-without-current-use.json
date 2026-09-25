@@ -1,6 +1,8 @@
 {
   "filters": [
-    { "id": "/^gtceu:forge_hammer/hammer_(potin|tin_alloy)_rod_to_long_rod$/" },
+    {
+      "id": "/^gtceu:forge_hammer/hammer_(potin|tin_alloy|rhodium_plated_palladium_|osmium_|osmium_|darmstadtium|black_bronze|bismuth_bronze|annealed_copper)_rod_to_long_rod$/"
+    },
     {
       "id": "/^gtceu:(lathe/lathe|extruder/extrude)_(activated_netherite|americium|battery_alloy|beryllium_oxide|blue_alloy|cobalt|electrum_flux|energetic_alloy|enriched_naquadah|lumium|mythril|nickel_zinc_ferrite|niobium_nitride|palladium|plutonium_241|polyphenylene_sulfide|polyvinyl_chloride|potin|rubber|silicone_rubber|stone|styrene_butadiene_rubber|thorium|tin_alloy|uranium_235|uranium)_to_rod$/"
     },

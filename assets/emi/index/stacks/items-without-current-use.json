@@ -5,7 +5,7 @@
     "/^[^:]+:small_(?!(?:amethyst|cobalt|deepslate|endstone|flint|gallium_arsenide|glowstone|indium_phosphide|netherrack|phosphorus|plutonium_241|plutonium|redstone|silicon_dioxide|silicon_germanium|thorium|tricalcium_phosphate|uranium_235|uranium)_dust$).*_dust$/",
     "/^gtceu:(|small_|tiny_)_(magnetic_(iron|neodynium|samarium|steel|terbium)|cocoa|netherite|perlite)_dust$/",
 
-    "/^gtceu:long_(potin|tin_alloy)_rod$/",
+    "/^gtceu:long_(potin|tin_alloy|rhodium_plated_palladium_|osmium_|osmium_|darmstadtium|black_bronze|bismuth_bronze|annealed_copper)_rod$/",
     "/^gtceu:(activated_netherite|americium|battery_alloy|beryllium_oxide|blue_alloy|cobalt|electrum_flux|energetic_alloy|enriched_naquadah|lumium|mythril|nickel_zinc_ferrite|niobium_nitride|palladium|plutonium_241|polyphenylene_sulfide|polyvinyl_chloride|rubber|silicone_rubber|stone|styrene_butadiene_rubber|thorium|tin_alloy|uranium_235|uranium)_rod$/",
     "/^gtceu:(sodalite|amethyst|blue_topaz|echo_shard|emerald|green_sapphire|lapis|lazurite|olivine|opal|red_garnet|ruby|sapphire|topaz|yellow_garnet)_rod$/",
 
