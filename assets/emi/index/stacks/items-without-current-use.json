@@ -1,11 +1,20 @@
 {
   "disabled": true,
   "filters": [
-    "/^gtceu:(|small_|tiny_)_magnetic_(iron|neodynium|samarium|steel|terbium)_dust$/",
-    "/^gtceu:(|small_|tiny_)cocoa_dust$/",
-    "/^gtceu:(|small_|tiny_)netherite_dust$/",
-    "/^gtceu:(|small_|tiny_)perlite_dust$/",
-    "/^gtceu:magnetic_(iron|neodynium|samarium|steel|terbium)_(ingot|nugget)$/",
+    "/^[^:]+:tiny_(?!(?:copper|flint|naquadria|potassium_dichromate|potassium|quicklime|silicon_germanium|soda_ash|sodium_hydroxide|uranium_235|eltz)_dust$).*_dust$/",
+    "/^[^:]+:small_(?!(?:amethyst|cobalt|deepslate|endstone|flint|gallium_arsenide|glowstone|indium_phosphide|netherrack|phosphorus|plutonium_241|plutonium|redstone|silicon_dioxide|silicon_germanium|thorium|tricalcium_phosphate|uranium_235|uranium)_dust$).*_dust$/",
+    "/^gtceu:(|small_|tiny_)_(magnetic_(iron|neodynium|samarium|steel|terbium)|cocoa|netherite|perlite)_dust$/",
+
+    "/^gtceu:long_(potin|tin_alloy)_rod$",
+    "/^gtceu:(activated_netherite|americium|battery_alloy|beryllium_oxide|blue_alloy|cobalt|electrum_flux|energetic_alloy|enriched_naquadah|lumium|mythril|nickel_zinc_ferrite|niobium_nitride|palladium|plutonium_241|polyphenylene_sulfide|polyvinyl_chloride|potin|rubber|silicone_rubber|stone|styrene_butadiene_rubber|thorium|tin_alloy|uranium_235|uranium)_rod$/",
+    "/^gtceu:(sodalite|amethyst|blue_topaz|echo_shard|emerald|green_sapphire|lapis|lazurite|olivine|opal|red_garnet|ruby|sapphire|topaz|yellow_garnet)_rod$/",
+
+    "/^gtceu:double_(actinium|ardite|battery_alloy|blue_alloy|blue_steel|conductive_alloy|damascus_steel|darconite|electrum_flux|end_steel|energetic_alloy|enriched_naquadah|enriched_naquadah_trinium_europium_duranide|gallium_arsenide|gallium|graphene|hastelloy_c_276|hastelloy_x|incoloy_ma_956|indium_gallium_phosphide|indium_tin_barium_titanium_cuprate|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|manyullyn|maraging_steel_300|mythril|neptunium_palladium_aluminium|nichrome|niobium_nitride|palladium|pulsating_alloy|red_alloy|red_steel|rhodium|ruridit|ruthenium|ruthenium_trinium_americium_neutronate|silicon|soularium|stellite_100|tantalum|thorium|trinaquadalloy|trinium|uranium_235|uranium|uranium_rhodium_dinaquadide|vanadium_gallium|vibrant_alloy|watertight_steel|yttrium_barium_cuprate|zeron_100|zinc)_plate$/",
+    "/^gtceu:(red_garnet|echo_shard|blue_topaz|yellow_garnet|topaz|opal)_plate$/",
+    "/^gtceu:(ardite|end_steel|enriched_naquadah_trinium_europium_duranide|kanthal|lanthanum_gold_cadmium_curium_sulfate|magnesium_diboride|magnetic_steel|neptunium_palladium_aluminium|nichrome|niobium_nitride|ruthenium_trinium_americium_neutronate|thorium|uranium_235|uranium_rhodium_dinaquadide)_plate$/",
+
+    "/^[^:]+:(?!(?:actinium|aluminium|bronze|copper|electrum|enderium|hsss|invar|lead|lumium|monium|mythril|nickel|omnium|osmiridium|signalum|silver|soularium|stainless_steel|steel|tin|tritanium|tungsten_steel|gold|iron|sculk_bioalloy)_nugget$).*_nugget$/",
+
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
     "gtceu:actinium_spring",
