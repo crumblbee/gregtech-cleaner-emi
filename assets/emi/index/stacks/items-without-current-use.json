@@ -33,6 +33,7 @@
 
     "/^gtceu:(pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_single_wire$/",
     "/^gtceu:(tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_double_wire$/",
+    "/^gtceu:(annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_quadruple_wire$/",
 
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
