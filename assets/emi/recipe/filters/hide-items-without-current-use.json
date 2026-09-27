@@ -69,6 +69,16 @@
       "id": "/^gtceu:shapeless/(pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_wire_gt_double_splitting$/"
     },
 
+    {
+      "id": "/^gtceu:wiremill/mill_(tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_2$/"
+    },
+    {
+      "id": "/^gtceu:packer/pack_(tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wires_1_0$/"
+    },
+    {
+      "id": "/^gtceu:shapeless/(tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_wire_gt_(single_doubling|quadruple_splitting)$/"
+    },
+
     { "id": "extendedcrafting:redstone_catalyst" },
     { "id": "minecraft:kjs/extendedcrafting_the_ultimate_component" },
     { "id": "gtceu:iron_ii_chloride" },
