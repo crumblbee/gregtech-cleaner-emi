@@ -36,6 +36,12 @@
     "/^gtceu:(annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_quadruple_wire$/",
     "/^gtceu:(cupronickel|osmium|naquadah|hssg|kanthal|naquadah_alloy|annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_(octal|hex)_wire$/",
 
+    "/^gtceu:(cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_single_cable$/",
+    "/^gtceu:(graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium)_double_cable$/",
+    "/^gtceu:(tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_quadruple_cable$/",
+    "/^gtceu:(tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_octal_cable$/",
+    "/^gtceu:(necrosiderite|tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_hex_cable$/",
+
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",
     "gtceu:iron_ii_chloride",

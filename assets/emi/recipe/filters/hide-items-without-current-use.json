@@ -99,6 +99,33 @@
       "id": "/^gtceu:shapeless/(cupronickel|osmium|naquadah|hssg|kanthal|naquadah_alloy|annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_wire_gt_(double_quadrupling|quadruple_doubling|hex_splitting|quadruple_quadrupling|octal_doubling)$/"
     },
 
+    {
+      "id": "/^gtceu:(assembler|packer)/cover_(cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_wire_gt_single(|_rubber|_silicone|_styrene_butadiene)$/"
+    },
+    {
+      "id": "gtceu:shapeless/(cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_cable_1$/"
+    },
+
+    {
+      "id": "/^gtceu:(assembler|packer)/cover_(graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium)_wire_gt_double(|_rubber|_silicone|_styrene_butadiene)$/"
+    },
+    { "id": "gtceu:shapeless/(graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium)_cable_2$/" },
+
+    {
+      "id": "/^gtceu:(assembler|packer)/cover_(tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_wire_gt_quadruple(|_rubber|_silicone|_styrene_butadiene)$/"
+    },
+    { "id": "gtceu:shapeless/(tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_cable_4$/" },
+
+    {
+      "id": "/^gtceu:(assembler|packer)/cover_(tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_wire_gt_octal(|_rubber|_silicone|_styrene_butadiene)$/"
+    },
+    { "id": "gtceu:shapeless/(tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_cable_8$/" },
+
+    {
+      "id": "/^gtceu:(assembler|packer)/cover_(necrosiderite|tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_wire_gt_hex(|_rubber|_silicone|_styrene_butadiene)$/"
+    },
+    { "id": "gtceu:shapeless/(necrosiderite|tungsten|naquadah|graphene|hssg|electrum|tritanium|lead|cryococcus|annealed_copper|black_steel|blue_alloy|iron|cobalt|tungsten_steel|trinium|steel|rtm_alloy|osmium|omnium|nickel|naquadah_alloy|nichrome|cupronickel|neptunium_palladium_aluminium|necrosiderite|kanthal|microversium|silver|niobium_nitride)_cable_16$/" },
+
     { "id": "extendedcrafting:redstone_catalyst" },
     { "id": "minecraft:kjs/extendedcrafting_the_ultimate_component" },
     { "id": "gtceu:iron_ii_chloride" },
