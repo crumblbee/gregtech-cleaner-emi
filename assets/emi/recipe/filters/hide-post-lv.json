@@ -10,6 +10,9 @@
       "id": "/^gtceu:forge_hammer/hammer_.*_to_plate$/"
     },
     {
+      "id": "/^gtceu:shaped/stick_(?!normal$).*$/"
+    },
+    {
       "id": "/^gtceu:shaped/.*_wire_single$/"
     },
     {
@@ -35,6 +38,7 @@
     },
     { "id": "gtceu:lead_foil" },
     { "id": "gtceu:lead_bolt" },
+    { "id": "gtceu:potin_rod" },
     { "id": "gtceu:lead_ring" },
     { "id": "gtceu:lead_screw" },
     { "id": "gtceu:nickel_rod" },

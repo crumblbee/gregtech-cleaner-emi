@@ -1,0 +1,7 @@
+{
+  "filters": [
+    {
+      "id": "/^gtceu:electrolyzer/decomposition_electrolyzing_(calcium_ferrocyanide|sodium_sulfide|potassium_cyanide|epichlorohydrin|sodium_cyanide|dinitrogen_tetroxide|calcium_carbide|hydroquinone|potassium_ferrocyanide|isoprene|hypochlorous_acid|distilled_water|potassium_sulfate|nitrosyl_chloride|chlorine_trifluoride|formaldehyde|hydrogen_cyanide|hexafluorosilicic_acid|dichloroethane|iron_iii_chloride|cyclohexane|hydrogen_peroxide|chloroform|monochloramine|ammonium_formate|nitrous_oxide|formic_acid|glyceryl_trinitrate|chloroethane|dimethyl_sulfide|aniline|sodium_persulfate|acetylene|nitrotoluene|formamide|nitrous_acid|4-fluorotoluene|dimethyl_sulfoxide|butanol)$/"
+    }
+  ]
+}
