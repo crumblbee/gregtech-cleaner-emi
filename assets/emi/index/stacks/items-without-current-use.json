@@ -31,7 +31,7 @@
     "/^gtceu:(naquadria|rhodium|silicone_rubber|stone)_gear$/",
     "/^gtceu:small_(hssg)_gear$/",
 
-    "/^gtceu:pulsating_alloy_(double|hex|octal|quadruple|single)_wire$/",
+    "/^gtceu:(pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_single_wire$/",
 
     "extendedcrafting:redstone_catalyst",
     "extendedcrafting:the_ultimate_component",

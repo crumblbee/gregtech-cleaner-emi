@@ -60,8 +60,15 @@
     },
 
     {
-      "id": "/^gtceu:wiremill/mill_pulsating_alloy_wire(|_\\d+)$/"
+      "id": "/^gtceu:wiremill/mill_(pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire$/"
     },
+    {
+      "id": "/^gtceu:packer/pack_(pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wires_[1-4]_single$/"
+    },
+    {
+      "id": "/^gtceu:shapeless/(pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_wire_gt_double_splitting$/"
+    },
+
     { "id": "extendedcrafting:redstone_catalyst" },
     { "id": "minecraft:kjs/extendedcrafting_the_ultimate_component" },
     { "id": "gtceu:iron_ii_chloride" },
