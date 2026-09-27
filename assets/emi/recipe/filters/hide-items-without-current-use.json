@@ -89,6 +89,16 @@
       "id": "/^gtceu:shapeless/(annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_wire_gt_(single_quadrupling|double_doubling|octal_splitting)$/"
     },
 
+    {
+      "id": "/^gtceu:wiremill/mill_(cupronickel|osmium|naquadah|hssg|kanthal|naquadah_alloy|annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_(8|16)$/"
+    },
+    {
+      "id": "/^gtceu:packer/pack_(cupronickel|osmium|naquadah|hssg|kanthal|naquadah_alloy|annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wires_(4_0|3_1|2_2|1_3|3_0|2_1|1_2)$/"
+    },
+    {
+      "id": "/^gtceu:shapeless/(cupronickel|osmium|naquadah|hssg|kanthal|naquadah_alloy|annealed_copper|trinium|silver|electrum|omnium|rtm_alloy|niobium_nitride|nichrome|tritanium|steel|cryococcus|black_steel|cobalt|neptunium_palladium_aluminium|pulsating_alloy|tungsten_steel|microversium|blue_alloy|nickel|iron)_wire_wire_gt_(double_quadrupling|quadruple_doubling|hex_splitting|quadruple_quadrupling|octal_doubling)$/"
+    },
+
     { "id": "extendedcrafting:redstone_catalyst" },
     { "id": "minecraft:kjs/extendedcrafting_the_ultimate_component" },
     { "id": "gtceu:iron_ii_chloride" },
