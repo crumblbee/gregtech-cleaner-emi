@@ -8,6 +8,13 @@
     },
     {
       "id": "/^gtceu:packer/strip_.*_cable_gt_(single|octal|hex|quadruple|double)$/"
+    },
+
+    {
+      "category": "gtceu:macerator_recycling"
+    },
+    {
+      "category": "gtceu:arc_furnace_recycling"
     }
   ]
 }
