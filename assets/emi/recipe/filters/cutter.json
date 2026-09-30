@@ -1,5 +1,6 @@
 {
   "filters": [
+    { "id": "/^gtceu:cutter/cut_.*_screw_to_bolt$" },
     { "id": "/^gtceu:cutter/.*_(distilled_water|water)$/" },
     { "id": "gtceu:cutter/hyperdynamic_ram_chip" },
     { "id": "gtceu:cutter/hyperdynamic_ram_chip_distilled" },
