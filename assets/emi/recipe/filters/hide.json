@@ -11,10 +11,9 @@
     },
 
     {
-      "category": "gtceu:macerator_recycling"
+      "category": "gtceu:macerator_recycling",
+      "id": "/^(?!gtceu:macerator/macerate_(bone|charcoal|echo_shard|ender_pearl|fluix_crystal|glass|sculk|wither_bone)$).*$/"
     },
-    {
-      "category": "gtceu:arc_furnace_recycling"
-    }
+    { "category": "gtceu:arc_furnace_recycling" }
   ]
 }
