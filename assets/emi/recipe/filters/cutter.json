@@ -1,0 +1,16 @@
+{
+  "filters": [
+    { "id": "/^gtceu:cutter/.*_(distilled_water|water)$/" },
+    { "id": "gtceu:cutter/hyperdynamic_ram_chip" },
+    { "id": "gtceu:cutter/hyperdynamic_ram_chip_distilled" },
+    { "id": "gtceu:cutter/projectred_circuit" },
+    { "id": "gtceu:cutter/projectred_circuit_distilled" },
+    { "id": "gtceu:cutter/null_wafer" },
+    { "id": "gtceu:cutter/null_wafer_distilled" },
+    { "id": "gtceu:cutter/multidimensional_cpu_chip" },
+    { "id": "gtceu:cutter/multidimensional_cpu_chip_distilled" },
+    {
+      "id": "/^(?!gtceu:cutter/cut_(amethyst|certus_quartz|crystal_matrix|diamond|emerald|ender_eye|ender_pearl|epoxy|fluix|glowstone|green_sapphire|lapis|lazurite|lithium_niobate|nether_quartz|nether_star|olivine|quartzite|redstone|ruby|sapphire|sculk_bioalloy|sodalite|stolzite)_block_to_plate$)gtceu:cutter/cut_.*_block_to_plate$/"
+    }
+  ]
+}
