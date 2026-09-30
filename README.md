@@ -1,3 +1,5 @@
+This branch is for Monifactory's Insanity Mode (see its `super-secret-settings` branch).
+
 A resourcepack for Minecraft 1.20.1 that improves the integration between [GregTech](https://github.com/GregTechCEu/GregTech-Modern) and [EMI](https://github.com/emilyploszaj/emi). This was created for use with [Monifactory](https://github.com/emilyploszaj/emi/wiki/Hiding-and-Adding-Index-Stacks), but should mostly work with other GregTech-Modern packs as well.
 
 - You can now search "EBF" or "LCR" in EMI without spelling out the acronyms.
